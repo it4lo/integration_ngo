@@ -31,11 +31,8 @@ O projeto foi criado para estudos e aprendizado (meu de quem quiser copiar) usan
     
   -  module-alias https://www.npmjs.com/package/module-alias
     
-    This lib is one of the most practical things I discovered, it organizes your code and you stop placing those huge imports with the folder path. 
-    Just add an alias to the folder you want to use and that's it, it's very practical.
-
-    Essa lib é uma das coisas mais práticas que eu descobri, organiza seu código e você para de colocar aquelas 
-    importações enorme com o caminho da pasta.   Basta você adicionar um alias a pasta que deseja usar e pronto, é muito prático.
+    This lib is one of the most practical things I discovered, It organizes your code and you stop placing those huge imports with the folder path. Just
+    add an alias to the folder you want to use and that's it.
 
   - bcrypts https://www.npmjs.com/package/bcryptjs
     
