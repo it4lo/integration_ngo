@@ -30,7 +30,7 @@ O projeto foi criado para estudos e aprendizado (meu de quem quiser copiar) usan
     Em outras palabras é um meio de autenticar, autorizar e enviar informações entre duas partes assim como diz o texto no site do jwt.io.
     
   -  module-alias https://www.npmjs.com/package/module-alias
-
+    
     This lib is one of the most practical things I discovered, it organizes your code and you stop placing those huge imports with the folder path. 
     Just add an alias to the folder you want to use and that's it, it's very practical.
 
@@ -52,7 +52,7 @@ O projeto foi criado para estudos e aprendizado (meu de quem quiser copiar) usan
 
   - sequelize ORM https://sequelize.org/
 
-  "Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server."
+    "Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server."
 
     For those who don't know what ORM is, it means Object Relational Mappers, 
     speaking very superficially it is used to map the entities in the database abstracting the database system, 
