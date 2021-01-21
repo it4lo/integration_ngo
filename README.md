@@ -31,9 +31,11 @@ O projeto foi criado para estudos e aprendizado (meu de quem quiser copiar) usan
     
   -  module-alias https://www.npmjs.com/package/module-alias
 
-    This lib is one of the most practical things I discovered, it organizes your code and you stop placing those huge imports with the folder path. Just add an alias to the folder you want to use and that's it, it's very practical.
+    This lib is one of the most practical things I discovered, it organizes your code and you stop placing those huge imports with the folder path. 
+    Just add an alias to the folder you want to use and that's it, it's very practical.
 
-    Essa lib é uma das coisas mais práticas eu descobri, organiza seu código e você para de colocar aquelas importações enorme com o caminho da pasta.   Basta você adicionar um alias a pasta que deseja usar e pronto, é muito prático.
+    Essa lib é uma das coisas mais práticas que eu descobri, organiza seu código e você para de colocar aquelas 
+    importações enorme com o caminho da pasta.   Basta você adicionar um alias a pasta que deseja usar e pronto, é muito prático.
 
   - bcrypts https://www.npmjs.com/package/bcryptjs
     
@@ -52,6 +54,9 @@ O projeto foi criado para estudos e aprendizado (meu de quem quiser copiar) usan
 
   "Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server."
 
-    For those who don't know what ORM is, it means Object Relational Mappers, speaking very superficially it is used to map the entities in the database abstracting the database system, it is quite useful but it is necessary to know how to use , because depending on the relationships that exist in the database, the consultation may be very slow
+    For those who don't know what ORM is, it means Object Relational Mappers, 
+    speaking very superficially it is used to map the entities in the database abstracting the database system, 
+    it is quite useful but it is necessary to know how to use , because depending on the relationships that exist in the database, 
+    the consultation may be very slow
 
     Para quem não sabe o que é ORM, significa Object Relational Mappers, falando bem superficial ele serve para mapear as entidades no banco abstraindo o sistema de banco de dados, é bastante útil mas é necessário saber usar, pois dependendo dos relacionamentos que existem no banco pode ser que a consulta possa ficar bastante lenta
