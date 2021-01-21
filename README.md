@@ -1,4 +1,9 @@
+# License
+ 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/it4lo/integration_ngo/blob/master/LICENSE)
+
 # About this project
+
 
 This project was created with the intention of integrating data from a legacy system of a third sector institution (NGO - Non-governmental organization),this system registers donations given to the institution, with that the API retrieves the data through normalized consultation, creating basis for reports that help in decision making.
 
