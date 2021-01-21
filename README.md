@@ -1,6 +1,10 @@
 # About this project
 
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/it4lo/integration_ngo/blob/master/LICENSE)
+
+
+
 This project was created with the intention of integrating data from a legacy system of a third sector institution (NGO - Non-governmental organization),this system registers donations given to the institution, with that the API retrieves the data through normalized consultation, creating basis for reports that help in decision making.
 
 The project was created for studies and learning (mine by anyone who wants to copy) using several javascript libraries
