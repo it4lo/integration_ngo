@@ -59,3 +59,30 @@ O projeto foi criado para estudos e aprendizado (meu de quem quiser copiar) usan
     the consultation may be very slow
 
     Para quem não sabe o que é ORM, significa Object Relational Mappers, falando bem superficial ele serve para mapear as entidades no banco abstraindo o sistema de banco de dados, é bastante útil mas é necessário saber usar, pois dependendo dos relacionamentos que existem no banco pode ser que a consulta possa ficar bastante lenta
+
+
+# How to tun this project 
+
+
+```bash 
+ #clone the project 
+ git clone https://github.com/it4lo/integration_ngo.git
+
+ #cd the project foler
+ cd integration_ngo
+
+ #run npm install to download dependencies 
+ npm install 
+
+ #install nodemon  
+ npm install -g nodemon
+
+ #run the project
+ npm run dev 
+ ```
+
+# Author
+
+Italo Almeida
+
+https://www.linkedin.com/in/%C3%ADtalo-almeida-51218188/
