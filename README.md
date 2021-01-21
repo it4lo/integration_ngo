@@ -1,7 +1,3 @@
-# License
- 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/it4lo/integration_ngo/blob/master/LICENSE)
-
 # About this project
 
 
@@ -14,7 +10,9 @@ Esse projeto foi criado com intuito de integrar dados de um sistema legado  de u
 
 O projeto foi criado para estudos e aprendizado (meu de quem quiser copiar) usando diversas bibliotecas javascript
 
-
+# License
+ 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/it4lo/integration_ngo/blob/master/LICENSE)
 
 # LIBS
       
